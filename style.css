@@ -11,6 +11,7 @@
   padding-top: 8px;
   padding-bottom: 8px;
   box-sizing: border-box;
+  
 }
 .divfilho{
   gap: 16px;
@@ -18,6 +19,7 @@
   display:flex;
   align-items: center;
   flex-grow: 1;
+  justify-content:center;
   }
 body {
   margin: 0;
