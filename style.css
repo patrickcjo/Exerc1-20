@@ -1,0 +1,28 @@
+.dvpai {
+  position: sticky;
+  background-color: white;
+  width: 100%;
+  top: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  box-sizing: border-box;
+}
+.divfilho{
+  gap: 16px;
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+}
+body {
+  margin: 0;
+}
+.dvconteudo{
+  margin: 0;
+  display: flex;
+}
