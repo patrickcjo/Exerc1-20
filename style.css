@@ -14,15 +14,18 @@
 }
 .divfilho{
   gap: 16px;
-  flex-direction: row;
-  display: flex;
+  flex-direction:row;
+  display:flex;
   align-items: center;
   flex-grow: 1;
-}
+  }
 body {
   margin: 0;
 }
 .dvconteudo{
   margin: 0;
   display: flex;
+}
+.link {
+  text-decoration: none;
 }
