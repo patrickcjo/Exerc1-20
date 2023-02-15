@@ -11,27 +11,28 @@
   padding-top: 8px;
   padding-bottom: 8px;
   box-sizing: border-box;
-  
 }
-.divfilho{
+.divfilho {
   gap: 16px;
-  flex-direction:row;
-  display:flex;
+  flex-direction: row;
+  display: flex;
   align-items: center;
   flex-grow: 1;
-  justify-content:center;
-  }
+  /* justify-content:center; */
+  top: 0;
+  right: 0;
+}
 body {
+  background-color: black;
   margin: 0;
 }
-.dvconteudo{
+.dvconteudo {
   margin: 0;
   display: flex;
 }
 .link {
   text-decoration: none;
 }
-.prf{
-  margin-top: 0
-  ;
+.prf {
+  margin-top: 0;
 }
